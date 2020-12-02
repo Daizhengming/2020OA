@@ -86,4 +86,6 @@ The chessboard is of size 6 x 6.
 ![avatar](./image02.png)
 
 * Start at the position (0,0)
-* Move 2 steps down and 
+* Move 2 steps down and 1 step right to reach the position(2,1). This position is not threatened by the bishop at (0,1).
+* Move 1 step right and 2 steps up to reach position (0,2)
+* The minimum number of moves to move from the position (0,0) to the position (0,2) is 2.
